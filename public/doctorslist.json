@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Prof. Dr. Md. Nurul Huda Lanin",
+    "qualification": "MBBS, FCPS(Surgery), MS(Urology)",
+    "specialist": "Urologist & Uro Oncologist",
+    "workingplace": "Professor & Director, Dept. of Urology, National Institute of Kidney Disease & Uro Oncologist",
+    "chamber": "Khidmah Hospital (Pvt) Ltd",
+    "location": "01, c-287/2-3 Khilgaon Bishwa Road, Dhaka",
+    "visitinghours": "Satarday to Thursday: 5.00pm - 6.00pm, Friday Closed",
+    "img": "https://i.ibb.co/6rhB6mT/doctor-2-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Prof. Dr. Md. Afjalur Rahman",
+    "qualification": "MBBS, MD(Cardiology),  PhD(Cardiology), FRCP(Glasgow ",
+    "specialist": "Cardiologist",
+    "workingplace": "Professor & Head of Cardiology, Sir Solimullah Medical College & Mitford Hospital, Dhaka",
+    "chamber": "Lab Aid Specialized Hospital",
+    "location": "House #1, Road # 4, Dhanmondi, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/wB1YW00/doctor-5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Prof. Dr. Rayhana Awal Sumi",
+    "qualification": "MBBS, FCPS(Surgery), FRCS(Endinburgh), MS (Plastic Surgery)",
+    "specialist": "Plastic Surgery",
+    "workingplace": "Professor & Plastic Surgery, Dhaka medical college & Hospital, Dhaka",
+    "chamber": "Ibn Sina medical Imaging Center, Zigatola",
+    "location": "113, House # 58, Road 2#A, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/vQx2GhK/doctor-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Prof. Dr. Rayhana Awal Sumi",
+    "qualification": "MBBS, FCPS(Surgery), FRCS(Endinburgh), MS (Plastic Surgery)",
+    "specialist": "Plastic Surgery",
+    "workingplace": "Professor & Plastic Surgery, Dhaka medical college & Hospital, Dhaka",
+    "chamber": "Ibn Sina medical Imaging Center, Zigatola",
+    "location": "113, House # 58, Road 2#A, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/D4gqdWK/doctor-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Prof. Dr. Rayhana Awal Sumi",
+    "qualification": "MBBS, FCPS(Surgery), FRCS(Endinburgh), MS (Plastic Surgery)",
+    "specialist": "Plastic Surgery",
+    "workingplace": "Professor & Plastic Surgery, Dhaka medical college & Hospital, Dhaka",
+    "chamber": "Ibn Sina medical Imaging Center, Zigatola",
+    "location": "113, House # 58, Road 2#A, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/PF8thmm/doctor-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Prof. Dr. Rayhana Awal Sumi",
+    "qualification": "MBBS, FCPS(Surgery), FRCS(Endinburgh), MS (Plastic Surgery)",
+    "specialist": "Plastic Surgery",
+    "workingplace": "Professor & Plastic Surgery, Dhaka medical college & Hospital, Dhaka",
+    "chamber": "Ibn Sina medical Imaging Center, Zigatola",
+    "location": "113, House # 58, Road 2#A, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/sgJvbrz/doctors-8.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Prof. Dr. Rayhana Awal Sumi",
+    "qualification": "MBBS, FCPS(Surgery), FRCS(Endinburgh), MS (Plastic Surgery)",
+    "specialist": "Plastic Surgery",
+    "workingplace": "Professor & Plastic Surgery, Dhaka medical college & Hospital, Dhaka",
+    "chamber": "Ibn Sina medical Imaging Center, Zigatola",
+    "location": "113, House # 58, Road 2#A, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/92HnSFX/doctors-12.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Prof. Dr. Rayhana Awal Sumi",
+    "qualification": "MBBS, FCPS(Surgery), FRCS(Endinburgh), MS (Plastic Surgery)",
+    "specialist": "Plastic Surgery",
+    "workingplace": "Professor & Plastic Surgery, Dhaka medical college & Hospital, Dhaka",
+    "chamber": "Ibn Sina medical Imaging Center, Zigatola",
+    "location": "113, House # 58, Road 2#A, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/FbS83dd/doctors-13.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Prof. Dr. Rayhana Awal Sumi",
+    "qualification": "MBBS, FCPS(Surgery), FRCS(Endinburgh), MS (Plastic Surgery)",
+    "specialist": "Plastic Surgery",
+    "workingplace": "Professor & Plastic Surgery, Dhaka medical college & Hospital, Dhaka",
+    "chamber": "Ibn Sina medical Imaging Center, Zigatola",
+    "location": "113, House # 58, Road 2#A, Dhaka",
+    "visitinghours": "Satarday to Tueday: 7.30pm - 10.00pm, Friday Closed",
+    "img": "https://i.ibb.co/2ZMJQns/doctors-16.jpg"
+  }
+]
